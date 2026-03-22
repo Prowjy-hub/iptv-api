@@ -1,9 +1,8 @@
 🕘️更新时间,#genre#
-2026-03-19 12:50:57,http://107.150.60.122/live/cctv5p.m3u8
+2026-03-22 12:48:00,http://107.150.60.122/live/cctv5p.m3u8
 
 📺央视频道,#genre#
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
-CCTV-5+,http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
 
 💰央视付费频道,#genre#
 风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
@@ -12,7 +11,6 @@ CCTV-5+,http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
 兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 
 📡卫视频道,#genre#
-浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
@@ -21,22 +19,17 @@ CCTV-5+,http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
 山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
-陕西卫视,http://107.150.60.122/live/snwshd.m3u8
 陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
+陕西卫视,http://107.150.60.122/live/snwshd.m3u8
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
 新疆卫视,http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
 
 ☘️广东频道,#genre#
 
 ☘️浙江频道,#genre#
-浙江钱江都市,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
-浙江经济生活,http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
-浙江新闻,http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
-浙江国际,http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
+浙江新闻,http://101.66.198.231:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 嘉兴新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 嘉兴新闻综合,http://tvfile.jyrmt.cn:80/nmip-media/channellive/channel104452/playlist.m3u8
-浙江民生休闲,http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
-浙江教科影视,http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
 象山综合,http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39
 
 ☘️北京频道,#genre#
@@ -82,7 +75,6 @@ CCTV-5+,http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
 河北都市,https://radio.pull.hebtv.com/live/hebnczx.m3u8
 
 ☘️甘肃频道,#genre#
-张掖新闻综合,https://play.kankanlive.com/live/1720583434627241.m3u8
 永昌综合,http://play.kankanlive.com/live/1720408280309109.m3u8
 白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 白银综合,https://play.kankanlive.com/live/1720408089419110.m3u8
@@ -96,7 +88,7 @@ CCTV-5+,http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
 ☘️山东频道,#genre#
 
 ☘️山西频道,#genre#
-太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;tpid=1516989100&amp;type=0
+太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;amp;tpid=1516989100&amp;amp;type=0
 太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&type=0
 
 ☘️安徽频道,#genre#
@@ -120,7 +112,7 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
-金鹰卡通,http://1.197.250.86:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://101.66.198.231:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 
 🎮游戏频道,#genre#
 
